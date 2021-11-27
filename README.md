@@ -138,9 +138,25 @@ e.Promote Server a Domain Controller
    
 4. Pilih opsi “Role-based or feature-based installation”. Lalu “Next”
 
-    ![e](https://user-images.githubusercontent.com/78127403/143683967-e81ac150-7ad0-4337-89fe-ebf634c051dc.png)
+   ![e](https://user-images.githubusercontent.com/78127403/143683967-e81ac150-7ad0-4337-89fe-ebf634c051dc.png)
+    
+5. Klik “Select a server from the server pool” untuk memilih direktori penyimpanan lokal. Lalu “Next”
 
+   ![f](https://user-images.githubusercontent.com/78127403/143684027-9f9cda62-8482-4317-98c7-92d1c55b241f.png)
+   
+6. Selanjutnya, berikan tanda centang di kotak “Active Directory Domain Services”. Saat anda mencentang kotak, disebelah kanan muncul penjelasan singkat tentang ADDS dan cara kerjanya. Lalu klik “Add Features”.
 
+   ![g](https://user-images.githubusercontent.com/78127403/143684061-a12ec9e4-6431-4821-ba1c-b5d3c3800bfa.png)
+
+7. Kemudian centang kotak “Group Policy Management” dan tekan tombol “Next”.
+
+   ![h](https://user-images.githubusercontent.com/78127403/143684106-ae9f38a5-b001-4535-92c3-2b3b86079e7d.png)
+   
+8. Selanjunya klik “Next” lagi.
+
+   ![i](https://user-images.githubusercontent.com/78127403/143684138-6c0b4a6a-b0bb-4166-9f7e-0bf81c81f018.png)
+
+9. 
 
 ### c. Instalasi DNS server
 ### d. Instalasi Net Framework 3.5
