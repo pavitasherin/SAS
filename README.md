@@ -147,16 +147,28 @@ e.Promote Server a Domain Controller
 6. Selanjutnya, berikan tanda centang di kotak “Active Directory Domain Services”. Saat anda mencentang kotak, disebelah kanan muncul penjelasan singkat tentang ADDS dan cara kerjanya. Lalu klik “Add Features”.
 
    ![g](https://user-images.githubusercontent.com/78127403/143684061-a12ec9e4-6431-4821-ba1c-b5d3c3800bfa.png)
+   
+   ![h](https://user-images.githubusercontent.com/78127403/143684106-ae9f38a5-b001-4535-92c3-2b3b86079e7d.png)
 
 7. Kemudian centang kotak “Group Policy Management” dan tekan tombol “Next”.
 
-   ![h](https://user-images.githubusercontent.com/78127403/143684106-ae9f38a5-b001-4535-92c3-2b3b86079e7d.png)
+   ![i](https://user-images.githubusercontent.com/78127403/143684138-6c0b4a6a-b0bb-4166-9f7e-0bf81c81f018.png)
    
 8. Selanjunya klik “Next” lagi.
 
-   ![i](https://user-images.githubusercontent.com/78127403/143684138-6c0b4a6a-b0bb-4166-9f7e-0bf81c81f018.png)
+   ![j](https://user-images.githubusercontent.com/78127403/143684318-51fdb441-60de-4f4b-8671-d082452cb2cb.png)
 
-9. 
+9. Klik “Install”.
+
+   ![k](https://user-images.githubusercontent.com/78127403/143684344-837d2341-4890-4b22-893d-77f4ec403fe3.png)
+   
+10.Tunggu hingga proses instalasi selesai kemudian melakukan konfigurasi ADDS
+
+   ![l](https://user-images.githubusercontent.com/78127403/143684361-57c8ce35-8167-4f45-bd27-aa796bd9903e.png)
+
+   ![m](https://user-images.githubusercontent.com/78127403/143684366-20b8c0bf-3b55-41a9-b18c-e1ef39ec9d92.png)
+
+
 
 ### c. Instalasi DNS server
 ### d. Instalasi Net Framework 3.5
