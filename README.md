@@ -4,47 +4,74 @@
 ------
 **Question**
 ------
-<img width="461" alt="bbbb" src="https://user-images.githubusercontent.com/92350603/143621126-49a7a818-0d3d-4a3f-b737-ff4fafdae37f.PNG">
+a.Instalasi windows server 2022
+
+b.Instalasi Active Directory Domain Services
+
+c.Instalasi DNS server
+
+d.Instalasi Net Framework 3.5
+
+e.Promote Server a Domain Controller
 
 **Answer**
 ------
 ### a. Instalasi windows server 2022
-Download ISO Installer windows server 2022
+1. Download ISO Installer windows server 2022
 
    https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
    
-   Select download the ISO then follow it step by step.
-<img width="874" alt="cccc" src="https://user-images.githubusercontent.com/92350603/143621513-6da949ad-311d-4c4b-af20-f8dc3031a9e4.PNG">
+2. Open VirtualBox and go to the "New" menu
+   
+   ![2](https://user-images.githubusercontent.com/78127403/143674901-47b0a0cb-8d5a-4a64-950f-aaba818e6477.png)
 
-- Lalu buka Oracle VM
-   ![1](https://user-images.githubusercontent.com/92350603/143668175-186b26b6-fa01-42bc-930a-df88721c111b.png)
-- Kemudian Klik New, dan lakukan seperti gambar dibawah ini :
-  Enter the name of the machine and type of system to use
-![Screenshot (170)](https://user-images.githubusercontent.com/92350603/143668255-57a3ee73-6add-46c9-994f-b7cab295a81b.png)
-- Define ram, create the disk defining type and size
-![Screenshot (171)](https://user-images.githubusercontent.com/92350603/143668258-5d2c86fa-b905-4c63-9810-9bbce118862e.png)
-![Screenshot (172)](https://user-images.githubusercontent.com/92350603/143668259-4d234602-23bb-42f5-8a82-7cbbcf4945dc.png)
-![Screenshot (173)](https://user-images.githubusercontent.com/92350603/143668262-8b3dd91f-09be-4590-8732-c4bfa26474fc.png)
-![Screenshot (174)](https://user-images.githubusercontent.com/92350603/143668265-5764bd8f-3adb-4165-a7c5-9dabd770f1ad.png)
-![Screenshot (175)](https://user-images.githubusercontent.com/92350603/143668483-c983e7a3-ad2c-4394-9a29-dca5a3ff388f.png)
+3. Enter the name of the machine and type of system to use  
+   
+   ![3](https://user-images.githubusercontent.com/78127403/143674997-8f1dc09f-4666-4b36-9bd0-70ac7fa5bf5b.png)
 
-- Go to the machine configuration and in the “Network” section set “Bridge adapter”
-![Screenshot (193)](https://user-images.githubusercontent.com/92350603/143668838-8b38e77e-4498-4ddd-aa3f-4534fa63e15e.png)
--  Click on “Start” and select the ISO downloaded
-<img width="440" alt="ss 2" src="https://user-images.githubusercontent.com/92350603/143668979-b62bb549-febb-4b8c-9b5f-52e0957f0ca7.PNG">
+4. Define ram, create the disk defining type and size
 
--  Click on “Start” and the Windows Server 2022 installation wizard will load
+   ![4](https://user-images.githubusercontent.com/78127403/143675141-6f1c566d-dcc9-4bc6-b8e7-13e54977f71d.png) 
+   
+   ![5](https://user-images.githubusercontent.com/78127403/143675155-5f325921-a64b-4d57-b7fa-270b2392d1bf.png)
+   
+   ![6](https://user-images.githubusercontent.com/78127403/143675277-a76f9283-978c-4ef3-b3a5-c986b820e525.png)
 
-![3](https://user-images.githubusercontent.com/92350603/143669454-108d765d-567f-4743-8a26-c1f0ac8b504c.png)
+   ![7](https://user-images.githubusercontent.com/78127403/143675279-43f7a815-eaf8-4306-a101-d62cf94dbac7.png)
+  
+   ![8](https://user-images.githubusercontent.com/78127403/143675284-9488ead0-e649-4486-a513-855dc0496746.png)
 
--  Click on “Install now”
-![4](https://user-images.githubusercontent.com/92350603/143669176-71abffb1-c05f-4335-9b38-05327799b9c8.png)
-![5](https://user-images.githubusercontent.com/92350603/143669179-8ff573b6-c55b-4678-bd41-89a82a2df513.png)
 
-- Select windows server 2022 desktop experience
-<img width="506" alt="6" src="https://user-images.githubusercontent.com/92350603/143669395-d74321e5-08fd-450b-bce1-a63c48f644b1.PNG">
+5. Go to the machine configuration and in the “Network” section set “Bridge adapter”
 
-- Accept the license and then proceed with the installation of Windows Server 2022
+   ![9](https://user-images.githubusercontent.com/78127403/143675454-b4207887-e716-4ede-91f1-c2e1d58e9aec.png)
+   
+   ![10](https://user-images.githubusercontent.com/78127403/143675456-8c560048-e080-496c-ad5e-9e65c12c8c6b.png)
+
+6.  Click on “Start” and select the ISO downloaded
+
+    ![11](https://user-images.githubusercontent.com/78127403/143675487-738b14d1-accf-43aa-9793-81b5451392c5.png)
+   
+    ![12](https://user-images.githubusercontent.com/78127403/143675494-9158393c-4f68-4497-9032-44d7d7bd2378.png)
+   
+    ![13](https://user-images.githubusercontent.com/78127403/143675496-4c7392d8-0142-49d7-9a4f-6a0517ce4dad.png)
+
+
+7.  Click on “Start” and the Windows Server 2022 installation wizard will load
+
+    ![14](https://user-images.githubusercontent.com/78127403/143675553-b13fc7da-9f77-44ae-a5c2-11b25465da5d.png)
+
+8.  Click on “Install now”
+
+    ![15](https://user-images.githubusercontent.com/78127403/143675567-598f1372-4b35-4d0c-ba4a-1e52582d8b54.png)
+
+9.  Select windows server 2022 desktop experience
+
+    ![16](https://user-images.githubusercontent.com/78127403/143675675-dcf518f1-0321-47f8-bb3b-d3625608ba93.png)
+
+10. Accept the license and then proceed with the installation of Windows Server 2022
+
+    ![17](https://user-images.githubusercontent.com/78127403/143675687-f6e4e0c2-13d6-4bde-92ce-d34a11c1d1de.png)
 
 <img width="503" alt="7" src="https://user-images.githubusercontent.com/92350603/143669400-41460892-0627-4492-bbc7-7f2928cb5d45.PNG">
 
