@@ -73,24 +73,55 @@ e.Promote Server a Domain Controller
 
     ![17](https://user-images.githubusercontent.com/78127403/143675687-f6e4e0c2-13d6-4bde-92ce-d34a11c1d1de.png)
 
-<img width="503" alt="7" src="https://user-images.githubusercontent.com/92350603/143669400-41460892-0627-4492-bbc7-7f2928cb5d45.PNG">
+11. Select windows server 2022 install microsoft server advanced (Custom)
 
-- Select windows server 2022 install microsoft server advanced (Custom)
-![Screenshot (194)](https://user-images.githubusercontent.com/92350603/143669634-aa637eb7-2405-4b37-a19e-99c50d6ecc77.png)
-- Location installation of windows server 2022
-![Screenshot (193)](https://user-images.githubusercontent.com/92350603/143669804-5873d2d1-a9b8-452f-8eb8-8b41e86998ce.png)
-- installation progress
-![Screenshot (194)](https://user-images.githubusercontent.com/92350603/143669813-26f248c7-3902-47b8-87f3-7eecf5a74a3e.png)
-- The system will reboot to complete the process
-![Screenshot (181)](https://user-images.githubusercontent.com/92350603/143669880-65f30db7-2d28-4c6f-8e7a-4deabfe9927d.png)
-- Next, custom your password administrator
-![Screenshot (185)](https://user-images.githubusercontent.com/92350603/143669853-dec3a54e-15ac-4b0d-ad6e-313a0acc6f87.png)
-- Access the menu “Input – Keyboard – Insert Ctrl + Alt + Del”. Enter the password created and wait for the configuration to load
-![Screenshot (186)](https://user-images.githubusercontent.com/92350603/143669952-dec5d170-6ade-48d1-a7d8-44e54850f999.png)
-![Screenshot (188)](https://user-images.githubusercontent.com/92350603/143669953-4ad35bca-86ca-4e6f-894b-2e4a8b30319f.png)
-- Windows Server 2022 has been successfully installed
-![Screenshot (190)](https://user-images.githubusercontent.com/92350603/143669993-270c8b54-79d5-4b96-b850-60187c0fbc60.png)
-![Screenshot (192)](https://user-images.githubusercontent.com/92350603/143669994-66347623-61d4-47ff-8da6-81ac6bf481f9.png)
+    ![36](https://user-images.githubusercontent.com/78127403/143675919-9174e91d-2d56-4a04-a87f-8722e1f2a4fe.png)
+
+12. Location installation of windows server 2022
+
+    ![18](https://user-images.githubusercontent.com/78127403/143675947-b91c307a-3bea-41f8-9e4a-4e869200493c.png)
+
+13. installation progress
+
+    ![19](https://user-images.githubusercontent.com/78127403/143676030-a8ce8ffc-87c8-4c9a-af12-dc4a09c9f714.png)
+
+14. The system will reboot to complete the process
+
+15. Next, enter your password administrator
+   
+    ![20](https://user-images.githubusercontent.com/78127403/143676085-1cdf917a-c270-493e-882a-e1a106db4db6.png)
+
+16. Access the menu “Input – Keyboard – Insert Ctrl + Alt + Del”. Enter the password created and wait for the configuration to load
+   
+    ![21](https://user-images.githubusercontent.com/78127403/143676131-1b2bf281-fa5c-496b-8d0a-734d2179f10b.png)
+
+    ![22](https://user-images.githubusercontent.com/78127403/143676136-be7070f7-230e-4db8-83a6-b2e9dbe7f36a.png)
+   
+    ![23](https://user-images.githubusercontent.com/78127403/143676258-9475591f-569f-40fa-b637-4c0b8195010c.png)
+
+17. Go to the menu "Devices-Insert Guest Additions CD Image"
+   
+    ![24](https://user-images.githubusercontent.com/78127403/143676259-1ceb4181-cd43-449c-8981-ea13b02b43b8.png)
+   
+    ![25](https://user-images.githubusercontent.com/78127403/143676272-454e7917-6750-47bd-9dc7-bb01be38510f.png)
+   
+    ![26](https://user-images.githubusercontent.com/78127403/143676276-91c32f01-3a8d-40a5-a170-055690123dd5.png)
+   
+    ![27](https://user-images.githubusercontent.com/78127403/143676277-2f6c12b9-2834-4691-a0ac-52bd3776e07d.png)
+   
+    ![28](https://user-images.githubusercontent.com/78127403/143676279-901ca16d-c244-4459-818c-242a6ae3b48d.png)
+   
+    ![29](https://user-images.githubusercontent.com/78127403/143676281-09f7ce61-cedb-42b3-a034-afa65819b231.png)
+
+    ![30](https://user-images.githubusercontent.com/78127403/143676284-1bd6d1a2-7d64-4d34-a710-4b579ee18f72.png)
+
+18. Run "winver" to Validate the Installed Edition of Windows Server
+
+    ![34](https://user-images.githubusercontent.com/78127403/143676353-1fc8c418-1581-44ae-8cfd-5f2722ac594d.png)
+   
+    ![35](https://user-images.githubusercontent.com/78127403/143676355-c579fc94-aee8-4dd9-8ef5-36d385ff2dee.png)
+
+
 
 ### b. Instalasi Active Directory Domain Services
 -  Buka menu start lalu pilih Windows PowerShell
