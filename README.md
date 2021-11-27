@@ -162,11 +162,11 @@ e.Promote Server a Domain Controller
 
    ![k](https://user-images.githubusercontent.com/78127403/143684344-837d2341-4890-4b22-893d-77f4ec403fe3.png)
    
-10.Tunggu hingga proses instalasi selesai kemudian melakukan konfigurasi ADDS
+10. Tunggu hingga proses instalasi selesai kemudian melakukan konfigurasi ADDS
 
-   ![l](https://user-images.githubusercontent.com/78127403/143684361-57c8ce35-8167-4f45-bd27-aa796bd9903e.png)
+     ![l](https://user-images.githubusercontent.com/78127403/143684361-57c8ce35-8167-4f45-bd27-aa796bd9903e.png)
 
-   ![m](https://user-images.githubusercontent.com/78127403/143684366-20b8c0bf-3b55-41a9-b18c-e1ef39ec9d92.png)
+     ![m](https://user-images.githubusercontent.com/78127403/143684366-20b8c0bf-3b55-41a9-b18c-e1ef39ec9d92.png)
 
 
 
