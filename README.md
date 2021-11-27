@@ -124,8 +124,13 @@ e.Promote Server a Domain Controller
 
 
 ### b. Instalasi Active Directory Domain Services
--  Buka menu start lalu pilih Windows PowerShell
+1. Sebelum melakukan instalasi, rubah nama computer terlebih dahulu dengan masuk ke windows powershell.
 
+   ![a](https://user-images.githubusercontent.com/78127403/143683775-26b1c203-46da-43f9-aef1-622c4fbe2849.png)
+   
+2. Kemudian ketikkan “rename-computer -Newname Server2022”
+
+   ![b](https://user-images.githubusercontent.com/78127403/143683815-bba77c2b-e529-495f-b631-e0e5d3516e47.png)
 
 ### c. Instalasi DNS server
 ### d. Instalasi Net Framework 3.5
