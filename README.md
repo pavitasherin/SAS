@@ -131,6 +131,16 @@ e.Promote Server a Domain Controller
 2. Kemudian ketikkan “rename-computer -Newname Server2022”
 
    ![b](https://user-images.githubusercontent.com/78127403/143683815-bba77c2b-e529-495f-b631-e0e5d3516e47.png)
+   
+3. Masuk ke menu “Server Manager”. Lalu pilih “Add Roles and Features”. Kemudian klik “Next”.
+
+   ![c](https://user-images.githubusercontent.com/78127403/143683885-7207c0ae-ec48-404e-871c-c9ef2f5719b7.png)
+   
+4. Pilih opsi “Role-based or feature-based installation”. Lalu “Next”
+
+    ![e](https://user-images.githubusercontent.com/78127403/143683967-e81ac150-7ad0-4337-89fe-ebf634c051dc.png)
+
+
 
 ### c. Instalasi DNS server
 ### d. Instalasi Net Framework 3.5
