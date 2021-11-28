@@ -174,6 +174,8 @@ e.Promote Server a Domain Controller
      Checklist `DNS Servers` then `add features` 
 
    ![n](https://user-images.githubusercontent.com/78127403/143728672-2506e2de-3e0c-4347-b5ba-fc9655318560.png)
+   
+2. Wait until processing instalation end. 
 
    ![o](https://user-images.githubusercontent.com/78127403/143728669-59789542-eeb3-4bde-b8d0-36aaf3b99515.png)
 
