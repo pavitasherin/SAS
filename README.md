@@ -170,7 +170,12 @@ e.Promote Server a Domain Controller
 
 
 ### c. Instalasi DNS server
-1. Masuk ke menu “Server Manager”. Lalu pilih opsi “Manage:,dilanjutkan dengan mengklik “Add Roles and Features”. Kemudian klik “Next”. Stepnya sama seperti instalasi active directory. Kita perlu menginstal dan mengonfigurasi peran Active Directory dan server DNS untuk bekerja bersama. 
+1. Masuk ke menu “Server Manager”. Lalu pilih “Add Roles and Features”. Kemudian klik “Next”. Stepnya sama seperti instalasi active directory. Kita perlu menginstal dan mengonfigurasi peran Active Directory dan server DNS untuk bekerja bersama. 
+
+   ![n](https://user-images.githubusercontent.com/78127403/143728672-2506e2de-3e0c-4347-b5ba-fc9655318560.png)
+
+   ![o](https://user-images.githubusercontent.com/78127403/143728669-59789542-eeb3-4bde-b8d0-36aaf3b99515.png)
+
 
 ### d. Instalasi Net Framework 3.5
 ### e. Promote Server to a Domain Controller
