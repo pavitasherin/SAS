@@ -181,4 +181,16 @@ e.Promote Server a Domain Controller
 
 
 ### d. Instalasi Net Framework 3.5
+1. Checklist `.NET Framework 3.5 features`
+
+   ![p](https://user-images.githubusercontent.com/78127403/143729166-d0cb86f1-5f20-4d79-b170-88dab2d8496b.png)
+
+2. Select `Install`
+
+   ![q](https://user-images.githubusercontent.com/78127403/143729174-7f65f621-3939-4caf-85ff-bfad09acf9f0.png)
+
+3. And Success
+
+   ![r](https://user-images.githubusercontent.com/78127403/143729176-63db91e9-c42f-4dbf-a490-25e9bab394f7.png)
+
 ### e. Promote Server to a Domain Controller
