@@ -124,45 +124,45 @@ e.Promote Server a Domain Controller
 
 
 ### b. Instalasi Active Directory Domain Services
-1. Sebelum melakukan instalasi, rubah nama computer terlebih dahulu dengan masuk ke windows powershell.
+1. Before doing the installation, we change the computer name first by going to windows powershell.
 
    ![a](https://user-images.githubusercontent.com/78127403/143683775-26b1c203-46da-43f9-aef1-622c4fbe2849.png)
    
-2. Kemudian ketikkan “rename-computer -Newname Server2022”
+2. Then type `rename-computer -Newname Server2022`
 
    ![b](https://user-images.githubusercontent.com/78127403/143683815-bba77c2b-e529-495f-b631-e0e5d3516e47.png)
    
-3. Masuk ke menu “Server Manager”. Lalu pilih “Add Roles and Features”. Kemudian klik “Next”.
+3. Then Restart, and open`Server Manager` Select Menu `manage`, Then `Add Rules and Features`. And Next.
 
    ![c](https://user-images.githubusercontent.com/78127403/143683885-7207c0ae-ec48-404e-871c-c9ef2f5719b7.png)
    
-4. Pilih opsi “Role-based or feature-based installation”. Lalu “Next”
+4. Select option`Role-based or feature-based installation`. And `Next`
 
    ![e](https://user-images.githubusercontent.com/78127403/143683967-e81ac150-7ad0-4337-89fe-ebf634c051dc.png)
     
-5. Klik “Select a server from the server pool” untuk memilih direktori penyimpanan lokal. Lalu “Next”
+5. Click `Select a server from the server pool` to select a local storage directory. Then `Next`
 
    ![f](https://user-images.githubusercontent.com/78127403/143684027-9f9cda62-8482-4317-98c7-92d1c55b241f.png)
    
-6. Selanjutnya, berikan tanda centang di kotak “Active Directory Domain Services”. Saat anda mencentang kotak, disebelah kanan muncul penjelasan singkat tentang ADDS dan cara kerjanya. Lalu klik “Add Features”.
+6. Next, put a check mark in the `Active Directory Domain Services` box. When you check the box, on the right appears a brief description of ADDS and how it works. Then click `Add Features`.
 
    ![g](https://user-images.githubusercontent.com/78127403/143684061-a12ec9e4-6431-4821-ba1c-b5d3c3800bfa.png)
    
    ![h](https://user-images.githubusercontent.com/78127403/143684106-ae9f38a5-b001-4535-92c3-2b3b86079e7d.png)
 
-7. Kemudian centang kotak “Group Policy Management” dan tekan tombol “Next”.
+7. Next check list “Group Policy Management” then “Next”.
 
    ![i](https://user-images.githubusercontent.com/78127403/143684138-6c0b4a6a-b0bb-4166-9f7e-0bf81c81f018.png)
    
-8. Selanjunya klik “Next” lagi.
+8. Then “Next” .
 
    ![j](https://user-images.githubusercontent.com/78127403/143684318-51fdb441-60de-4f4b-8671-d082452cb2cb.png)
 
-9. Klik “Install”.
+9. Click “Install”.
 
    ![k](https://user-images.githubusercontent.com/78127403/143684344-837d2341-4890-4b22-893d-77f4ec403fe3.png)
    
-10. Tunggu hingga proses instalasi selesai kemudian melakukan konfigurasi ADDS
+10. Wait until processing instalation end. Then do configurasion ADDS
 
      ![l](https://user-images.githubusercontent.com/78127403/143684361-57c8ce35-8167-4f45-bd27-aa796bd9903e.png)
 
@@ -170,7 +170,8 @@ e.Promote Server a Domain Controller
 
 
 ### c. Instalasi DNS server
-1. Masuk ke menu “Server Manager”. Lalu pilih “Add Roles and Features”. Kemudian klik “Next”. Stepnya sama seperti instalasi active directory. Kita perlu menginstal dan mengonfigurasi peran Active Directory dan server DNS untuk bekerja bersama. 
+1. We need to install and configure the Active Directory role and DNS server to work together.
+     Checklist `DNS Servers` then `add features` 
 
    ![n](https://user-images.githubusercontent.com/78127403/143728672-2506e2de-3e0c-4347-b5ba-fc9655318560.png)
 
